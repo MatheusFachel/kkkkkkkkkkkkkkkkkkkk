@@ -1,0 +1,69 @@
+*{
+    /* padding: 0; */
+    margin: 0;
+    /* box-sizing: border-box; */
+}
+
+body{
+    background-color: #000000;
+    color: #ffffff;
+    font-family: Poppins;
+}
+
+b{
+    color: #00e846;
+}
+
+/*------------------------- Pag 1------------------------------ */
+
+/* titulo */
+.tec-ti-h1{
+    width: 80%;
+    background-color: #00e846;
+    font-size: 2em;
+    text-align: center;
+
+    margin-top: 30px;
+}   
+
+/* quem é */
+
+.tec-ti-quem-e h2{
+    text-align: left;
+    font-size: 1.5em;
+    margin-top: 30px;
+}   
+
+.tec-ti-quem-e p{
+    text-align: left;
+    font-size: 1em;
+    margin-top: 10px;
+}
+
+/* conceitos */
+
+.tec-ti-conceitos{
+    background-color: #171717;
+    justify-content: right;
+    /* border-radius: 40px; */
+
+    width: 70%; 
+    margin-left: 30%;
+    /* padding: 3px; */
+    padding-left: 5px;
+}
+
+.tec-ti-conceitos p{
+    font-size: 0.8em;
+}
+
+/* video */
+
+.tec-ti-video-1{
+   margin-top: 20px;
+   margin-left: 100px;
+   background-color: #171717;   
+   width: 80%; 
+   height: 80vh;
+}
+/*------------------------- Pag 2------------------------------ */
